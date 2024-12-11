@@ -1,0 +1,23 @@
+.display {
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(17, 35, 70);
+}
+.intrestsetail{
+    display: flex;
+    gap: 100px;
+}
+.display p{
+    font-size: larger;
+    font-weight: 600;
+}
+.display h2{
+    font-size: x-large;
+}
+.display h4{
+    font-size: x-large;
+}

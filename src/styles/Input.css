@@ -1,0 +1,21 @@
+.input{
+    display: flex;
+    flex-direction:column ;
+    gap: 20px;
+    align-items: center;
+}
+.input input{
+    width: 280px;
+    height: 25px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 2px 5px;
+    text-align: center;
+}
+.input button{
+    height: 30px;
+    width: 120px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 15px;
+}
